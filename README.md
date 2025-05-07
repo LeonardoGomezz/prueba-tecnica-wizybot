@@ -124,4 +124,4 @@ The bot logic resides in the custom `useChat.ts` hook, which:
 
 ## Author
 
-- Developed by [Leonardo Gomez]
+- Developed by [Leonardo Gomez](https://portafolio-leonardogomez.netlify.app/es/)
